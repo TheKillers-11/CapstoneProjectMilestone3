@@ -609,6 +609,44 @@ if __name__ == "__main__":
 # 34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo
 
 
+# In[5]:
+
+
+### Package Versions usedin this assigment ###
+# Package                       Version
+# ----------------------------- ---------------
+# dash                          2.13.0
+# dash-bootstrap-components     1.5.0
+# dash-core-components          2.0.0
+# dash-html-components          2.0.0
+# dash-table                    5.0.0
+# Flask                         2.2.2
+# jupyter                       1.0.0
+# jupyter_client                8.1.0
+# jupyter-console               6.6.3
+# jupyter_core                  5.3.0
+# jupyter-events                0.6.3
+# jupyter_server                2.5.0
+# jupyter_server_fileid         0.9.0
+# jupyter_server_terminals      0.4.4
+# jupyter_server_ydoc           0.8.0
+# jupyter-ydoc                  0.2.4
+# jupyterlab                    3.6.3
+# jupyterlab-pygments           0.1.2
+# jupyterlab_server             2.22.0
+# jupyterlab-widgets            3.0.5
+# Markdown                      3.4.1
+# numpy                         1.24.3
+# numpydoc                      1.5.0
+# pandas                        1.5.3
+# pandocfilters                 1.5.0
+# plotly                        5.9.0
+# requests                      2.31.0
+# requests-file                 1.5.1
+# requests-toolbelt             0.9.1
+# yfinance                      0.2.28
+
+
 # In[ ]:
 
 
